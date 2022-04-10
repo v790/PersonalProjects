@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Eve",
+			"Path": "D:\\Vittorio\\Projects\\GitHub\\PersonalProjects\\Eve\\Source\\Eve.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EveEditor",
+			"Path": "D:\\Vittorio\\Projects\\GitHub\\PersonalProjects\\Eve\\Source\\EveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

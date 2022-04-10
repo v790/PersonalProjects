@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\vittorio\\projects\\github\\personalprojects\\eve\\source\\eve\\eve.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\vittorio\\projects\\github\\personalprojects\\eve\\intermediate\\build\\win64\\eveeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\vittorio\\projects\\github\\personalprojects\\eve\\intermediate\\build\\win64\\unrealeditor\\development\\eve\\definitions.eve.h",
+            "d:\\vittorio\\projects\\github\\personalprojects\\eve\\source\\eve\\eve.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

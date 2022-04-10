@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Eve-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Vittorio\Projects\GitHub\PersonalProjects\Eve\Intermediate\Build\Win64\EveEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\Vittorio\Projects\GitHub\PersonalProjects\Eve\Intermediate\Build\Win64\UnrealEditor\DebugGame\Eve\Eve.cpp.obj"
+"D:\Vittorio\Projects\GitHub\PersonalProjects\Eve\Intermediate\Build\Win64\UnrealEditor\DebugGame\Eve\Default.rc2.res"
+/OUT:"D:\Vittorio\Projects\GitHub\PersonalProjects\Eve\Intermediate\Build\Win64\UnrealEditor\DebugGame\Eve\UnrealEditor-Eve-Win64-DebugGame.lib"

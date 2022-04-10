@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\vittorio\\projects\\github\\personalprojects\\eve\\source\\eve\\evegamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\vittorio\\projects\\github\\personalprojects\\eve\\intermediate\\build\\win64\\eveeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\vittorio\\projects\\github\\personalprojects\\eve\\intermediate\\build\\win64\\unrealeditor\\debuggame\\eve\\definitions.eve.h",
+            "d:\\vittorio\\projects\\github\\personalprojects\\eve\\source\\eve\\evegamemodebase.h",
+            "d:\\programs\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programs\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programs\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\programs\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\vittorio\\projects\\github\\personalprojects\\eve\\intermediate\\build\\win64\\unrealeditor\\inc\\eve\\evegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

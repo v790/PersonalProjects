@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Vittorio\\Projects\\GitHub\\PersonalProjects\\Eve\\Source\\Eve\\Eve.Build.cs",
+		"D:\\Vittorio\\Projects\\GitHub\\PersonalProjects\\Eve\\Source\\Eve.Target.cs",
+		"D:\\Vittorio\\Projects\\GitHub\\PersonalProjects\\Eve\\Source\\EveEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
